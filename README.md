@@ -153,11 +153,13 @@ ruff check .
 +------------------------------------------------------------------------------------+
 ```
 
+![дашборд: перший екран](screenshots/02_dash1_overview.png)
+
+![після дії: результат на екрані](screenshots/02_dash1_action.png)
+
 ![підсумок тестів](screenshots/01_tests.png)
 
-![довідка CLI](screenshots/04_cli_1.png)
-
-Усі скріншоти (2): [screenshots/](screenshots/README.md)
+Усі скріншоти (5): [screenshots/](screenshots/README.md)
 
 
 ---
